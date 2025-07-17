@@ -1,0 +1,11 @@
+build/
+install/
+log/
+*.pyc
+*.swp
+*.bak
+*.log
+.vscode/
+*.db
+.idea/
+*.launch.pyc
